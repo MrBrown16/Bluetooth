@@ -18,7 +18,10 @@ p {
   text-indent: 25px;
   text-align: justify;
 }
-
+p span{
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+}
 .frame {
   width: 380px;
   float: right;
